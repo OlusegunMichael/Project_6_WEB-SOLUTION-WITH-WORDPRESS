@@ -185,6 +185,7 @@ Bind-address is added on the DB server to enable remote connection by editing us
 * *`sudo yum install mysql`* -(Installs mysql Clent on the Web Server)
 * *`sudo mysql -u admin -p -h <DB-Server-Private-IP-address>`* -( Access the DB Server using the IP Address of the Database Server)
 * *`SHOW DATABASES;`* -( Displays the list of Databases)
+
 ![db](./Project_6_Images/Show%20DB.PNG)
 
 * Enable TCP port 80 in Inbound Rules configuration for my Web Server EC2 (enable from everywhere 0.0.0.0/0)
