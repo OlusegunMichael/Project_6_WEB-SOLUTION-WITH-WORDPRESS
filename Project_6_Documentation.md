@@ -170,6 +170,7 @@ ___
  * *`exit`*
 
 ![db](./Project_6_Images/Show%20DB.PNG)
+g
 ### **Step 7 — Configure WordPress to connect to remote database.**
 ____
 >#### To configure wordpress to connect to the remote database first the inbound rules is edidted for the DB Server.
